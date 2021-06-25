@@ -2,7 +2,9 @@
 
 Implemented using c++ **SFML** library. 
 
-If you are on linux: ```sudo apt-get install libsfml-dev``` before running cmake
+If you are on linux:
+```sudo apt-get install libsfml-dev```
+before running cmake
 
 ## Functionality
 
