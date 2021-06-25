@@ -16,4 +16,8 @@ Press **SPACE** to **start/stop** simulation
 
 Press **BACKSPACE** to **reset**
 
+![this is supposed to be gif](https://raw.githubusercontent.com/DimaYurchenko/GameOfLife_cpp_SFML/master/game.gif
+)
+
+
 
