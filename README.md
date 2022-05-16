@@ -2,10 +2,11 @@
 
 Implemented using c++ **SFML** library. 
 
-If you are on linux:
-```sudo apt-get install libsfml-dev```
-before running cmake
-
+To get started:
+```
+chmod +x build.sh
+./build.sh
+```
 ## Functionality
 
 Simply **CLICK** on a cell to **activate/deactivate** it
